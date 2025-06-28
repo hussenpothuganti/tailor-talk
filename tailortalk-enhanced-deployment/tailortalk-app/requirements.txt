@@ -1,0 +1,26 @@
+# TailorTalk - Complete Requirements File
+# This file contains all dependencies for both backend and frontend
+
+# Backend Dependencies (FastAPI)
+fastapi==0.104.1
+uvicorn==0.24.0
+pymongo==4.6.0
+python-dotenv==1.0.0
+pydantic==2.5.0
+python-multipart==0.0.6
+requests==2.32.4
+google-auth==2.25.2
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.110.0
+python-dateutil==2.8.2
+
+# Frontend Dependencies (Streamlit)
+streamlit==1.46.1
+plotly==6.0.0
+pandas==2.3.0
+numpy==2.3.1
+
+# Additional utilities
+python-json-logger==2.0.7
+
